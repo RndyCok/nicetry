@@ -46,6 +46,7 @@
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^2.0.0",
         "awesome-phonenumber": "^2.69.0",
+        "@ibaraki-douji/pixivts': "^2.0.2",
         "axios": "^0.26.0",
         "catch": "^1.0.48",
         "cfonts": "^2.10.0",
